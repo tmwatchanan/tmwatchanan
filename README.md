@@ -7,6 +7,8 @@
 ![Watchanan Chantapakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmwatchanan&count_private=true)
 ![Watchanan Chantapakul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmwatchanan&theme=default)
 
+![Profile views counter](https://komarev.com/ghpvc/?username=tmwatchanan&style=flat-square&color=4682B4)
+
 <!--
 **tmwatchanan/tmwatchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
