@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently pursuing a Masters degree in Computer Science.
+- 📫 How to reach me: [tmwatchanan@gmail.com](mailto:tmwatchanan@gmail.com)
+- 😄 Pronouns: he/him/hims
+
+![Watchanan Chantapakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmwatchanan&count_private=true)
+![Watchanan Chantapakul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmwatchanan&theme=default)
+
 <!--
 **tmwatchanan/tmwatchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
