@@ -3,6 +3,8 @@
 - 🔭 I’m currently pursuing a Masters degree in Computer Science.
 - 📫 How to reach me: [tmwatchanan@gmail.com](mailto:tmwatchanan@gmail.com)
 - 😄 Pronouns: he/him/hims
+- My personal blog (Thai): [blogwai.com](https://blogwai.com)
+- My personal blog (English): [tmwatchanan.github.io](https://tmwatchanan.github.io)
 
 ![Watchanan Chantapakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmwatchanan&count_private=true)
 ![Watchanan Chantapakul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmwatchanan&theme=default)
