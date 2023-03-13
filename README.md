@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing a Masters degree in Computer Science.
+- 🔭 I’m currently working as a data scientist at LMWN.
 - 📫 How to reach me: [tmwatchanan@gmail.com](mailto:tmwatchanan@gmail.com)
 - 😄 Pronouns: he/him/hims
 - My personal blog (Thai): [blogwai.com](https://blogwai.com)
