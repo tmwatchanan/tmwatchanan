@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a data scientist at LMWN.
 - 📫 How to reach me: [tmwatchanan@gmail.com](mailto:tmwatchanan@gmail.com)
 - 😄 Pronouns: he/him/hims
-- My personal blog (Thai): [blogwai.com](https://blogwai.com)
+- My personal blog (Thai): [medium.com/@watchanan](https://medium.com/@watchanan)
 - My personal blog (English): [tmwatchanan.github.io](https://tmwatchanan.github.io)
 
 ![Watchanan Chantapakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmwatchanan&count_private=true)
